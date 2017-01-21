@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/CSV.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/HTML.php
+END
+Excel2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel2007.php
+END
+IWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/IWriter.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5.php
+END
+PDF.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/PDF.php
+END

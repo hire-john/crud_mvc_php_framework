@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel
+END
+ReferenceHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/ReferenceHelper.php
+END
+DocumentSecurity.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/DocumentSecurity.php
+END
+WorksheetIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/WorksheetIterator.php
+END
+Comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Comment.php
+END
+HashTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/HashTable.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Autoloader.php
+END
+Cell.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Cell.php
+END
+IComparable.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/IComparable.php
+END
+Settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Settings.php
+END
+IOFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/IOFactory.php
+END
+NamedRange.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/NamedRange.php
+END
+Calculation.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Calculation.php
+END
+RichText.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/RichText.php
+END
+DocumentProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/DocumentProperties.php
+END
+Worksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Worksheet.php
+END
+CachedObjectStorageFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/CachedObjectStorageFactory.php
+END
+Style.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style.php
+END

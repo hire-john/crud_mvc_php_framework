@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5
+END
+BIFFwriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5/BIFFwriter.php
+END
+Workbook.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5/Workbook.php
+END
+Worksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5/Worksheet.php
+END
+Xf.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5/Xf.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5/Font.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5/Parser.php
+END
+Escher.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Writer/Excel5/Escher.php
+END

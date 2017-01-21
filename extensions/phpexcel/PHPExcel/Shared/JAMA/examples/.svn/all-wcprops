@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples
+END
+LagrangeInterpolation.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/LagrangeInterpolation.php
+END
+LagrangeInterpolation2.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/LagrangeInterpolation2.php
+END
+LMQuadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/LMQuadTest.php
+END
+benchmark.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/benchmark.php
+END
+tile.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/tile.php
+END
+Stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/Stats.php
+END
+MagicSquareExample.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/MagicSquareExample.php
+END
+LevenbergMarquardt.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/LevenbergMarquardt.php
+END
+polyfit.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/examples/polyfit.php
+END

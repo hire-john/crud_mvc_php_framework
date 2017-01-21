@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style
+END
+Conditional.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/Conditional.php
+END
+Borders.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/Borders.php
+END
+Protection.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/Protection.php
+END
+Border.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/Border.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/Font.php
+END
+NumberFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/NumberFormat.php
+END
+Alignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/Alignment.php
+END
+Color.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/Color.php
+END
+Fill.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Style/Fill.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/README.TXT
+END
+pdf417.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/pdf417.php
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/LICENSE.TXT
+END
+htmlcolors.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/htmlcolors.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/CHANGELOG.TXT
+END
+tcpdf.p12
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/tcpdf.p12
+END
+unicode_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/unicode_data.php
+END
+qrcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/qrcode.php
+END
+tcpdf.crt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/tcpdf.crt
+END
+barcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/barcodes.php
+END
+tcpdf.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/tcpdf.fdf
+END
+tcpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/tcpdf.php
+END
+2dbarcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/PDF/2dbarcodes.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA
+END
+QRDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/QRDecomposition.php
+END
+CholeskyDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/CholeskyDecomposition.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/CHANGELOG.TXT
+END
+SingularValueDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/SingularValueDecomposition.php
+END
+LUDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/LUDecomposition.php
+END
+Matrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/Matrix.php
+END
+EigenvalueDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/test/!svn/ver/19/trunk/analyticsService/extensions/phpexcel/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php
+END
